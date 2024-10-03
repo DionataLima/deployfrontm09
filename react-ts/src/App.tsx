@@ -22,7 +22,7 @@ const App = () => {
           }
         />
   
-        <Route path="/" element={<HomePage />} />
+        <Route path="/" element={<LoginPage />} />
       </Routes>
     </Router>
   );
